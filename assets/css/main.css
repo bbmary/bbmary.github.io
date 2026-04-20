@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 
 
 html, body, div, span, applet, object,
@@ -1780,7 +1780,7 @@ input, select, textarea {
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
 			border-bottom: solid 2px #fff;
 			display: inline-block;
-			padding-bottom: 1em;
+			/* padding-bottom: 1em; */
 			position: relative;
 		}
 
@@ -2795,8 +2795,8 @@ input, select, textarea {
 			margin: 0 auto;
 		}
 .inner p{
-	margin-top: 0.6em;
-	font-size: 24px;
+	/* margin-top: 0.6em; */
+	font-size: 0.9em;
 	font-weight: 500;
 }
 			@media screen and (max-width: 1280px) {
